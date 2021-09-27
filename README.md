@@ -13,7 +13,19 @@ The game should run!
 
 Images of the Game
 
+Home Screen
 <img src="readme-images/home-screen.png">
+
+Control Screen
+<img src="readme-images/control-screen.png">
+
+Color Selection Screen
+<img src="readme-images/color-selection.png">
+
+Game Screen
+<img src="readme-images/game-screen.png">
+
+
 
 
 I do not own any of the fonts and sounds/music used in the game!
