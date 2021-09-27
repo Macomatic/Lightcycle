@@ -3,7 +3,13 @@
 This is a simple game made in python where users can vs. each other or CPU's in a game of lightcycle. The objective is to cut off other players
 with your own light trail.
 
+To play the game, do the following:
+1. Download the build folder onto your computer
+2. Open the build folder
+3. Open the exe.win.32-3.8 folder
+4. Open lightcycle.exe
 
+The game should run!
 
 
 I do not own any of the fonts and sounds/music used in the game!
