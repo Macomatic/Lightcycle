@@ -1,5 +1,11 @@
 # Lightcycle
 
+This is a simple game made in python where users can vs. each other or CPU's in a game of lightcycle. The objective is to cut off other players
+with your own light trail.
+
+
+
+
 I do not own any of the fonts and sounds/music used in the game!
 
 Game Music: Daft Punk - Derezzed (8-bit NES version) https://www.youtube.com/watch?v=70k22n_XOdQ
